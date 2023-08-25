@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T03:45:48.295Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="JOh-aFonMwNR474w2bv_" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T23:36:51.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bDat6ASYdXiTKJFGRt0Z" version="21.6.9" type="github">
   <diagram name="Halaman-1" id="sULDYDgB5De0UTiafrHM">
-    <mxGraphModel dx="946" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="290" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q0Hcy1KL047lVdsbwjJ6-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Tugas 1 Introduction Algorith&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Q0Hcy1KL047lVdsbwjJ6-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Tugas 1 Introduction Algorith&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="169" y="80" width="490" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q0Hcy1KL047lVdsbwjJ6-2" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="180" width="710" height="160" as="geometry" />
+        <mxCell id="Q0Hcy1KL047lVdsbwjJ6-2" value="&lt;ol&gt;&lt;li&gt;Sebutkan berbagai bahasa pemrograman yang bisa digunakan untuk mengembangkan aplikasi backend!&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="123" y="90" width="291" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
