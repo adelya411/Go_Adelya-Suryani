@@ -8,15 +8,48 @@ type Student struct {
 }
 
 func (s Student) Average() float64 {
+	sum := 0
+	for _, score := range s.score {
+		sum += score
+	}
+	if len(s.score) > 0 {
+		return float64(sum) / float64(len(s.score))
+	}
 	return 0
 }
 
 func (s Student) Min() (min int, name string) {
-	return 0, ""
+	if len(s.score) == 0 {
+		return 0, ""
+	}
+	
+	min = s.score[0]
+	name = s.name[0]
+
+	for i := 1; i < len(s.score); i++ {
+		if s.score[i] < min {
+			min = s.score[i]
+			name = s.name[i]
+		}
+	}
+	return min, name
 }
 
 func (s Student) Max() (max int, name string) {
-	return 99, ""
+	if len(s.score) == 0 {
+		return 99, ""
+	}
+	
+	max = s.score[0]
+	name = s.name[0]
+
+	for i := 1; i < len(s.score); i++ {
+		if s.score[i] > max {
+			max = s.score[i]
+			name = s.name[i]
+		}
+	}
+	return max, name
 }
 
 func main() {
